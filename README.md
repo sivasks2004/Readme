@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siva</h1>
 <h3 align="center">A passionate data analyst || Front End Developer from Erode, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasks2004&label=Profile%20views&color=0e75b6&style=flat" alt="sivasks2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivasks2004" alt="sivasks2004" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce website**
 
@@ -26,6 +24,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivasks2004&show_icons=true&locale=en&layout=compact" alt="sivasks2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasks2004&show_icons=true&locale=en" alt="sivasks2004" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasks2004&label=Profile%20views&color=0e75b6&style=flat" alt="sivasks2004" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivasks2004" alt="sivasks2004" /></a> </p>
 - 👋 Hi, I’m @sivasks2004
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
