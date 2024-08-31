@@ -2,7 +2,7 @@
 <h3 align="center">A passionate data analyst || Front End Developer from Erode, India</h3>
 
 
-<img align="right" src="" width="100" height="100"></img>
+<img align="right" src="https://drive.google.com/file/d/1MuUPx6dmzugSG80hFyWRCudG7q19Sa4g/view?usp=drive_link" width="100" height="100"></img>
 - 🔭 I’m currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **SQL, Javascript**
