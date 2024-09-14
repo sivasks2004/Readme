@@ -39,5 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasks2004&show_icons=true&locale=en" alt="sivasks2004" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasks2004&label=Profile%20views&color=0e75b6&style=flat" alt="sivasks2004" /> </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivasks2004" alt="sivasks2004" /></a>
+
 
