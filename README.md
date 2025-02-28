@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siva</h1>
-<h3 align="center">A passionate data analyst || Front End Developer from Erode, India</h3>
+<h3 align="center">A passionate data analyst from Erode, India</h3>
 
 
 
