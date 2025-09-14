@@ -1,8 +1,17 @@
+<!-- Top GIF Banner with Rounded Corners -->
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1yRvCIIndg0oXlTrel1I26dokRt_sDaZI" 
+       alt="Data Analyst GIF" 
+       width="250" />
+</p>
+
+<!-- Greeting Section -->
 <h1 align="center">👋 Hey there, I'm Siva</h1>
-<h3 align="center">Aspiring Data Analyst | Tech Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | Frontend Developer | Tech Enthusiast</h3>
 <p align="center">
   From Erode, India 🇮🇳 — passionate about turning data into insights and building impactful digital solutions.
 </p>
+
 
 
 - 🔭 I’m currently working on **E-commerce website**
