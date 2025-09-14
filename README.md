@@ -173,25 +173,19 @@ Let’s connect — I’m excited to collaborate, learn, and grow in the world o
 <div align="left">
 
   <h4>
-    🔗 <a href="https://github.com/sivasks2004/Festive_Crackers_Booking" target="_blank">
+    🔗 <a href="https://github.com/sivasks2004/Festive_Crackers_Booking/blob/main/README.md" target="_blank">
       Festive Crackers Booking System
     </a>
   </h4>
 
   <h4>
-    🔗 <a href="#" target="_blank" style="color: black; text-decoration: none;">
-      Smart City Waste Management System
+    🔗 <a href="https://github.com/sivasks2004/EcoTrack_360/blob/main/README.md" target="_blank" style="color: black; text-decoration: none;">
+      Eco-Track 360
     </a>
   </h4>
 
   <h4>
-    🔗 <a href="#" target="_blank" style="color: black; text-decoration: none;">
-      Smart Irrigation-Based Automatic Water Sprinkler
-    </a>
-  </h4>
-
-  <h4>
-    🔗 <a href="#" target="_blank" style="color: black; text-decoration: none;">
+    🔗 <a href="https://github.com/sivasks2004/Student_Event_Management_System_SEMS/blob/main/README.md" target="_blank" style="color: black; text-decoration: none;">
       Student Event Management Platform
     </a>
   </h4>
