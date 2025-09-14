@@ -38,8 +38,7 @@ Curious about what data can do? So am I and that's what keeps me exploring.<br/>
 
 I’m Siva, a passionate data enthusiast with a keen interest in turning complex information into clear, strategic insights. I’m deeply driven by the challenge of solving real-world problems, building impactful dashboards, and aligning data with business objectives to support smarter decision-making.<br/><br/>
 
-Currently, I’m pursuing my Master of Computer Applications at Kongu Engineering College, where I’ve worked on several hands-on projects that reflect both technical depth and business relevance. Some of my key projects include a Smart City Waste Management System, a Smart Irrigation-based Automatic Water Sprinkler, a Student Event Management Platform, a Festive Crackers Booking System, and a data-driven research study on the impact of 5G radiofrequency on animal behavior and health.<br/><br/>
-
+Currently, I’m pursuing my Master of Computer Applications at Kongu Engineering College, where I’ve worked on several hands-on projects that reflect both technical depth and business relevance. <br><br>
 I bring a strategic mindset, attention to detail, and a collaborative spirit to everything I do. Whether it’s designing scalable solutions or contributing to data-backed strategies, I aim to deliver meaningful value through both analysis and action.<br/><br/>
 
 Let’s connect — I’m excited to collaborate, learn, and grow in the world of data and strategy.
