@@ -1,18 +1,25 @@
-<!-- Top GIF Banner with Rounded Corners -->
+<!-- Top GIF Banner -->
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1yRvCIIndg0oXlTrel1I26dokRt_sDaZI" 
        alt="Data Analyst GIF" 
-       width="300" />
+       width="250"/>
 </p>
 
 <!-- Greeting Section -->
-<h1 align="center">👋 Hey there, I'm Siva</h1>
-<h3 align="center">Aspiring Data Analyst | Tech Enthusiast</h3>
+<h1 align="center">👋 Hello, I'm Siva</h1>
+<h3 align="center">Aspiring Data Analyst | Frontend Developer | Tech Enthusiast</h3>
+
 <p align="center">
-  From Erode, India 🇮🇳 — passionate about turning data into insights and building impactful digital solutions.
+  📍 Based in Erode, India 🇮🇳 <br/>
+  Passionate about analyzing data, building impactful digital solutions, and creating meaningful experiences with technology.
 </p>
 
-
+<!-- Quick Links -->
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/siva-kulanthaisamy-1776352a9/">Connect with me</a> | 
+  🔗 <a href="">Languages & Tools</a> | 
+  🔗 <a href="#projects">Projects</a>
+</p>
 
 - 🔭 I’m currently working on **E-commerce website**
 
@@ -21,27 +28,6 @@
 - 👯 I’m looking to collaborate on **data analytic projects**
 
 - 📫 How to reach me **sivakulanthaisamy1804@gmail.com**
-
-<h3 align="left">🌐 Connect with me</h3>
-
-<table>
-  <tr>
-    <td align="center" width="120">
-      <a href="https://linkedin.com/in/siva-kulanthaisamy-1776352a9" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-             width="30" height="30" alt="LinkedIn"/>
-      </a>
-      <br>LinkedIn
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.leetcode.com/w8dvz5y8jd/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-             width="30" height="30" alt="LeetCode"/>
-      </a>
-      <br>LeetCode
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -161,12 +147,21 @@
     </td>
   </tr>
 </table>
+<!-- Footer -->
+<hr/>
 
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sivasks2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  🚀 Thank you for visiting my profile! <br/>
+  "Turning data into insights, and insights into impact." 💡
 </p>
 
+<p align="center">
+  📫 Connect with me: 
+  <a href="https://linkedin.com/in/siva-kulanthaisamy-1776352a9" target="_blank">LinkedIn</a> | 
+  <a href="mailto:sivasks2004@example.com">Email</a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sivasks2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
