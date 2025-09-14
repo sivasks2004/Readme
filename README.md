@@ -172,7 +172,7 @@ Let’s connect — I’m excited to collaborate, learn, and grow in the world o
 <p align="center">
   📫 Connect with me: 
   <a href="https://linkedin.com/in/siva-kulanthaisamy-1776352a9" target="_blank">LinkedIn</a> | 
-  <a href="mailto:sivasks2004@example.com">Email</a>
+  <a href="mailto:sivakulanthaisamy1804@gmail.com">Email</a>
 </p>
 
 <p align="center">
