@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Siva</h1>
-<h3 align="center">A passionate data analyst from Erode, India</h3>
-
+<h1 align="center">👋 Hey there, I'm Siva</h1>
+<h3 align="center">Aspiring Data Analyst | Tech Enthusiast</h3>
+<p align="center">
+  From Erode, India 🇮🇳 — passionate about turning data into insights and building impactful digital solutions.
+</p>
 
 
 - 🔭 I’m currently working on **E-commerce website**
