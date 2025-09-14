@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **BI Tools, Advanced SQL**
 
-- 👯 I’m looking to collaborate on **data analytic projects**
+- 👯 I’m looking to collaborate on **data-analysis initiatives**
 
 - 📫 How to reach me **sivakulanthaisamy1804@gmail.com**
 
