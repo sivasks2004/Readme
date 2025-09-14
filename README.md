@@ -161,6 +161,49 @@ Let’s connect — I’m excited to collaborate, learn, and grow in the world o
     </td>
   </tr>
 </table>
+---
+<!-- Projects Section -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+  A selection of projects that showcase my technical expertise and problem-solving approach.<br/>
+  Click on a project title to explore its details.
+</p>
+
+<div align="left">
+
+  <h4>
+    🔗 <a href="https://github.com/sivasks2004/Festive_Crackers_Booking" target="_blank">
+      Festive Crackers Booking System
+    </a>
+  </h4>
+
+  <h4>
+    🔗 <a href="#" target="_blank" style="color: black; text-decoration: none;">
+      Smart City Waste Management System
+    </a>
+  </h4>
+
+  <h4>
+    🔗 <a href="#" target="_blank" style="color: black; text-decoration: none;">
+      Smart Irrigation-Based Automatic Water Sprinkler
+    </a>
+  </h4>
+
+  <h4>
+    🔗 <a href="#" target="_blank" style="color: black; text-decoration: none;">
+      Student Event Management Platform
+    </a>
+  </h4>
+
+  <h4>
+    🔗 <a href="#" target="_blank" style="color: black; text-decoration: none;">
+      Research Study: Impact of 5G on Animal Behaviour
+    </a>
+  </h4>
+
+</div>
+
 <!-- Footer -->
 <hr/>
 
