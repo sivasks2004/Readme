@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1yRvCIIndg0oXlTrel1I26dokRt_sDaZI" 
        alt="Data Analyst GIF" 
-       width="250" />
+       width="300" />
 </p>
 
 <!-- Greeting Section -->
@@ -148,10 +148,10 @@
 <table>
   <tr>
     <td align="center" width="120">
-      <a href="https://visualstudio.microsoft.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="45" height="45" alt="Visual Studio"/>
-      </a>
-      <br>Visual Studio
+      <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="Visual Studio Code"/>
+</a>
+      <br>VS Code
     </td>
     <td align="center" width="120">
       <a href="https://git-scm.com/" target="_blank">
