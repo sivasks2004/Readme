@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **E-commerce website**
 
-- 🌱 I’m currently learning **SQL, Javascript**
+- 🌱 I’m currently learning **BI Tools, Advanced SQL**
 
 - 👯 I’m looking to collaborate on **data analytic projects**
 
