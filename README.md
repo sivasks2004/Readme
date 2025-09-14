@@ -17,7 +17,7 @@
 <!-- Quick Links -->
 <p align="center">
   🔗 <a href="https://www.linkedin.com/in/siva-kulanthaisamy-1776352a9/">Connect with me</a> | 
-  ✉ <a href="mailto:sivasks2004@gmail.com" target="_blank">sivasks2004@gmail.com</a> |
+  ✉ <a href="mailto:sivakulanthaisamy1804@gmail.com" target="_blank">sivakulanthaisamy1804@gmail.com</a> |
   📞 <a href="tel:+916380603146">+91 6380603146</a>
 </p>
 
