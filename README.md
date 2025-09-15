@@ -84,18 +84,6 @@ Let’s connect — I’m excited to collaborate, learn, and grow in the world o
       </a>
       <br>NodeJS
     </td>
-    <td align="center" width="120">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-      </a>
-      <br>Java
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-      </a>
-      <br>Python
-    </td>
   </tr>
 </table>
 
@@ -127,7 +115,25 @@ Let’s connect — I’m excited to collaborate, learn, and grow in the world o
 </table>
 
 <br>
+<!-- Programming -->
 
+<h4 align="left">☕︎ Programming</h4>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.java.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+      </a>
+      <br>Python
+    </td>
+  </tr>
+</table>
 <!-- Data & Analytics -->
 <h4 align="left">📊 Data & Analytics</h4>
 <table>
@@ -138,6 +144,12 @@ Let’s connect — I’m excited to collaborate, learn, and grow in the world o
       </a>
       <br>Power BI
     </td>
+<td align="center" width="120">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://raw.githubusercontent.com/sempostma/office365-icons/master/svg/excel.svg" width="45" height="45" alt="Excel"/>
+  </a>
+  <br>Excel
+</td>
   </tr>
 </table>
 
