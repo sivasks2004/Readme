@@ -21,7 +21,7 @@
   📞 <a href="tel:+916380603146">+91 6380603146</a>
 </p>
 
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **E-commerce website & Deep Learning Tool enhancement**
 
 - 🌱 I’m currently learning **BI Tools, Advanced SQL**
 
